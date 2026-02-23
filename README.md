@@ -1,5 +1,12 @@
 # agent-scheduler
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-scheduler/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-scheduler/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-scheduler)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-scheduler)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-scheduler)
+
 ## Detailed Description
 
 agent-scheduler is maintained as an industry-grade software project with production-ready engineering practices.  
